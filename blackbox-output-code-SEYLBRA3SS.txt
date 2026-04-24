@@ -1,0 +1,5 @@
+organic-store/
+├── index.html
+├── style.css
+├── script.js
+└── images/ (add your product images here)
